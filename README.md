@@ -1,4 +1,4 @@
- <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Neeru</h1> 
+ <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/saadafzal/" target="_blank">Saad</h1> 
      
 <div id="header" align="center">  
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
@@ -14,15 +14,15 @@
 
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
-<a href="https://www.linkedin.com/in/neerugangarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerugangarh" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/saadafzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerugangarh" height="40" width="50" /></a>
 <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
 <a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
-<a href="https://leetcode.com/u/Neeru_Gangarh/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
-<a href="https://www.youtube.com/@neeru_05" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/original/youtube-logo-youtube-icon-transparent-free-png.png" alt="yt" height="63" width="60" /></a> 
+<a href="https://leetcode.com/u/saadafzal/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
+<a href="https://www.youtube.com/@saadafzal" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/original/youtube-logo-youtube-icon-transparent-free-png.png" alt="yt" height="63" width="60" /></a> 
 </p>
-<h4 align="center"> 📩 Get in touch: <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a> </h4>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:saadafzal558@gmail.com">saadafzal558@gmail.com</a> </h4>
 <!--view count-->
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=saadabcafzal&&style=for-the-badge" /> </p>
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -31,15 +31,15 @@
 <!--stats-->
 <h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
 <div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=saadabcafzal&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /></p>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadabcafzal&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadabcafzal&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadabcafzal&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadabcafzal&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadabcafzal&theme=github_dark" />
 </div>
 <br>
 <div align="center">
@@ -76,19 +76,7 @@
 
 <h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
 <div align="center" style="max-width: 600px; margin: auto;">
-  <h3 style="text-align: left; font-size: 16px;">
-    🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
-  </h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
-    <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
-    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
   </div>
 </div>
 
